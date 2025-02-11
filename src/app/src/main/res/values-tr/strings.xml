@@ -9,7 +9,7 @@
     <string name="weapon_atk">"Silah hasarı"</string>
     <string name="stat_goal">"İstatistik hedefin"</string>
     <string name="hours">"Saat"</string>
-    <string name="tick">"Tık (varsayılan 4)"</string>
+    <string name="tick">"Tik (varsayılan 4)"</string>
     <string name="tickrate_help">"Tık nedir?"</string>
     <string name="tickrate_tooltip">"Bir kere yeteneğini kullanarak kaç canavara vurabildiğindir!"</string>
     <string name="prtain_switch">"Yetenek eğitimi"</string>
@@ -95,9 +95,9 @@
     <string name="offlinetutorial_desc">"Çevrimdışı eğitim oyundan çıktığınızda kuklayı kullanarak yaptığınız eğitimdir. Normal bir şekilde eğitim yapmaktan daha yavaş ve zaman kısıtlaması vardır. Süre kazanmak için oyunu oynarken canavarlara vurabilir veya elmaslarla süre satın alabilirsiniz. \nAyrıca bu kuklaları eşya olarak satın alabilirsiniz ve bu sayede oyundan çıktığınızda otomatik olarak özelliklerinizin seviyesini kasabilirsiniz.\nEğer envanterinizde birden fazla kuklaya sahipseniz, kazandığınz exp puanları diğer özellikleriniz arasında dağıtılır, daha fazla özellik puanı kazanmazsınız!"</string>
     <string name="damagetutorial_title">"Hasar rehberi"</string>
     <string name="damagetutorial_desc">"Bu sekme oldukça basit, temel özellik seviyenize bağlı olarak, verilen yaratığa ne kadar hasar vuracağınızı gösterir.Doğru sonuç almak için yaratık tipini seçmeyi ve aynı zamanda sınıfınızı doğru seçmeyi unutmayın!"</string>
-    <string name="can_not_oneshot_1">"☹️ You can't oneshot a "</string>
-    <string name="can_not_oneshot_2">" yet!"</string>
-    <string name="can_oneshot">"🏆 You can oneshot a "</string>
-    <string name="oneshot_consistency_1">" with "</string>
-    <string name="oneshot_consistency_2">"% consistency!"</string>
+    <string name="can_not_oneshot_1">"☹️ Bu yaratığı tek vuruşta öldüremezsin "</string>
+    <string name="can_not_oneshot_2">" henüz!"</string>
+    <string name="can_oneshot">"🏆 Bu yaratığı tek vuruşta öldürebilirsin "</string>
+    <string name="oneshot_consistency_1">" ile "</string>
+    <string name="oneshot_consistency_2">"% tutarlılığı!"</string>
 </resources>
